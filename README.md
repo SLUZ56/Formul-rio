@@ -30,7 +30,7 @@ Exercício do formulário focou nas seguintes tarefas:
   <td>
     <td align="center">
       <a href="#">
-        <img src="./assets/fotoselma.jpg" width="100px;" alt="Foto de selma dias"/><br>
+        <img src="./assets/fotoselma1.png" width="100px;" alt="Foto de selma dias"/><br>
         <sub>
           <b>Selma Dias</b>
         </sub>
