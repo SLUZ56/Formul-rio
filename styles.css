@@ -1,0 +1,106 @@
+*{background-color:#EFEFC1;
+  ;
+  font-family: 'Nunito', sans-serif;
+    cursor: pointer;
+}
+
+.container {
+
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 20px;
+    padding-top: 18px;
+    background-color: #EFEFC1;
+    ;
+}
+
+
+
+.tittle-register {
+    position: absolute;
+    font-size: 16px;
+    font-weight: 200;
+    top: -6px;
+    background-color:#EFEFC1;
+    ;
+    padding: 0 2px;
+    color: #870EEB;
+}
+
+
+.input-inline {
+  display: inline;
+}
+
+
+label {
+  font-size: 20px;
+  color: #870EEB;
+  display: block;
+  line-height: 30px;
+}
+
+input {
+  border: 2px solid #3D50F5;
+                 
+}
+
+#data-nascimento {
+  color: #870EEB;
+  margin-bottom: 10px;
+}
+
+.sexo {
+  margin-top: 10px ;
+  
+}
+
+.cor-olhos {
+
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+
+textarea {
+  margin-bottom: 18px;
+
+}
+
+.foto-perfil {
+  margin-bottom: 10px;
+
+}
+
+.bio {
+  margin-top: 10px;
+
+}
+
+button {
+  cursor: pointer;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.button-clear:hover {
+  border: 2px solid gray;
+  background-color: green;
+  color: #0e1deb;
+  width:70px;
+  height: 30px;
+  font-size: 18px;
+margin-top: 10px;
+margin-bottom: 0px;
+}
+
+.button-submit:hover {
+  border: 2px solid gray;
+  background-color: green;
+  color: #0e1deb;
+  width:130px;
+  height: 30px;
+  margin-top: 10px;
+  font-size: 18px;
+  margin-bottom: 0px;
+}
