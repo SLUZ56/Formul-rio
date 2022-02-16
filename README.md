@@ -1,7 +1,7 @@
 # Formulário
 
 
-<img src="./assets/myform.png" width="250px" alt="foto-formulario">      >   <img src="./assets/form-mokup.png" width="250px" alt="foto-formulario"> 
+<img src="./assets/myform.png" width="250px" alt="foto-formulario">      <img src="./assets/form-mokup.png" width="250px" alt="foto-formulario"> 
 
 > Formulário.
 
